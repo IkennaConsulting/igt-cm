@@ -159,7 +159,7 @@ components:
 
 - **Regulatory isolation required**: When APIs must be completely isolated for compliance reasons (different security classifications, jurisdictions), shared components may violate separation requirements
 
-- **Rapid prototyping phase**: During initial API discovery and design sprints, premature abstraction into shared components can slow exploration; extract components once patterns stabilize
+- **Rapid prototyping phase**: During initial API discovery and design sprints, premature abstraction into shared components can slow exploration; extract components once patterns stabilize. Also, for quick proof-of-concept APIs that are guaranteed not to go into production or integrate with other systems, the overhead of creating and cataloging reusable components might slow down the experimentation phase unnecessarily.
 
 ---
 
