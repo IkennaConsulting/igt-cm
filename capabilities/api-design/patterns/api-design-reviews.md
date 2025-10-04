@@ -1,9 +1,5 @@
 # API Design Review Pattern
 
-## Name
-**API Design Review Pattern** (also known as: API Design Gate, API Design Critique, API Approval Process)
-
----
 
 ## The Problem
 API design decisions have long-lasting consequences that are expensive to change once consumers depend on them. Individual development teams, working in isolation, make design choices that may be locally optimal but create inconsistency across the API portfolio, violate organizational standards, miss security considerations, or introduce usability problems. Without a structured review mechanism, poor API designs reach production, accumulate as technical debt, and degrade the overall developer experience. Organizations need a way to catch design issues early while balancing quality with delivery speed.
