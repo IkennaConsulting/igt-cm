@@ -1,9 +1,4 @@
-# OpenAPI Component Reuse Pattern
-
-## Name
-**Shared Component Library Pattern**
-
----
+# Shared Component Library Pattern
 
 ## The Problem
 Organizations with multiple APIs face the challenge of defining and maintaining common data structures, parameters, response formats, security schemes, and error models consistently across their API portfolio. Without a systematic approach, teams repeatedly define similar or identical elements in each API specification, leading to inconsistency, duplication, and maintenance overhead as the API portfolio grows.
